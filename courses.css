@@ -12,7 +12,7 @@ header {
     /* witte achtergrondkleur */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     /* lichte schaduw */
-    position: fixed;
+    position: relative;
     top: 0;
     left: 0;
     right: 0;
@@ -75,12 +75,8 @@ nav h1 {
 
 /* Stijl voor cursustabel */
 table {
-
-
     border-collapse: collapse;
-
     width: 100%;
-
 }
 
 th,
@@ -91,8 +87,7 @@ td {
 }
 
 th {
-    background-color: #333;
-    color: #fff;
+    color: #22a7f0;
 }
 
 /* Stijl voor secties */
