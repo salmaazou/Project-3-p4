@@ -99,7 +99,13 @@ section h2 {
     margin-top: 0;
 }
 
+/** put the element in the div in the middle of the screen */
 div.VR-banner {
     display: flex;
     justify-content: center;
+}
+
+div.VR-banner>img {
+    width: 50%;
+    border-radius: 10rem;
 }
