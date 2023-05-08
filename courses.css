@@ -98,3 +98,8 @@ section {
 section h2 {
     margin-top: 0;
 }
+
+div.VR-banner {
+    display: flex;
+    justify-content: center;
+}
