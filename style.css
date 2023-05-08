@@ -101,7 +101,11 @@ body {
     margin-bottom: 10px;
   }
 
- 
+  /** makes the width smaller so the sections fit next to each other */
+  section {
+    width: 20rem;
+  }
+  
   /* Footer element */
   footer {
     background-color: #2196f3;
@@ -109,6 +113,7 @@ body {
     text-align: center;
     padding: 20px;
     font-size: 14px;
+    margin-top: 7.3rem;
   }
   
   @media (max-width: 244px) {
