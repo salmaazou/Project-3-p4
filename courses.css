@@ -105,6 +105,7 @@ div.VR-banner {
     justify-content: center;
 }
 
+/** makes the img bigger and makes the corner rounded also only select's the img in the div with class VR-banner*/
 div.VR-banner>img {
     width: 50%;
     border-radius: 10rem;
