@@ -109,3 +109,8 @@ section.banner-box>div>img {
     width: 100%;
     height: 100%;
 }
+
+/** makes the width of the section.bruikbaar-box smaller so the div's can fit next to each other */
+section.bruikbaar-box {
+    width: 20rem;
+}
