@@ -99,14 +99,13 @@ section h2 {
     margin-top: 0;
 }
 
-/** put the element in the div in the middle of the screen */
-div.VR-banner {
-    display: flex;
-    justify-content: center;
+/** sets the padding to nothing for the section.banner-box so the img fit to the side of the screen */
+section.banner-box {
+    padding: 0;
 }
 
 /** makes the img bigger and makes the corner rounded also only select's the img in the div with class VR-banner*/
 div.VR-banner>img {
-    width: 50%;
-    border-radius: 10rem;
+    width: 100%;
+    height: 100%;
 }
