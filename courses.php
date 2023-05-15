@@ -41,10 +41,6 @@
   </header>
 
   <main>
-		<section class="banner-box">
-			<div>
-				<img src="cursussen-page-banner-img.png" alt="banner-img-VR.png">
-			</div>
 		</section>
 		<section>
 			<h2>Cursussen</h2>
