@@ -110,11 +110,16 @@ section.banner-box>div>img {
 }
 
 /** added display flex to the div with the 3 div's so the 3 div's are next to each other */
+/** centers the div's in de div.info */
 section.bruikbaar-box>div.info {
     display: flex;
+    justify-content: center;
 }
 
 /** makes the width of the section.bruikbaar-box smaller so the div's can fit next to each other */
+/** added display flex so i can add justify content so i can center the txt in the div */
 section.bruikbaar-box>div.info>div {
     width: 20rem;
+    display: flex;
+    justify-content: center;
 }
