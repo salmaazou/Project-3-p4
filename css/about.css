@@ -659,10 +659,27 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 }
 
 
+/** sets the padding to nothing for the section.banner-box so the img fit to the side of the screen */
+section.banner-box {
+    padding: 0;
+}
 
+/** makes the img bigger also only select's the img in the div with class VR-banner*/
+section.banner-box>div>img {
+    width: 100%;
+}
 
+/** added display flex to the div with the 3 div's so the 3 div's are next to each other */
+/** centers the div's in de div.info */
+section.bruikbaar-box>div.info {
+    display: flex;
+    justify-content: center;
+}
 
-
-
-
-
+/** makes the width of the section.bruikbaar-box smaller so the div's can fit next to each other */
+/** added display flex so i can add justify content so i can center the txt in the div */
+section.bruikbaar-box>div.info>div {
+    width: 20rem;
+    display: flex;
+    justify-content: center;
+}
