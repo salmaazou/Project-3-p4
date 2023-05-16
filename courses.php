@@ -95,7 +95,6 @@
 		<section>
 			<h2>concurrentie</h2>
 				<p>Onze product is beter omdat wij onze producten zelf ook testen en wij maken onze producten zo fijn mogelijk voor onze gebruikers, wij gebruiken ook de feedback van onze gebruikers om het nog beter te maken voor u. Wij zorgen er ook voor dat onze producten ook lekker zitten tijdens het gebruik. Wij maken onze producten ook niet duur zodat iedereen die onze producten willen gebruiken gewoon kan kopen, zodat het betaalbaar is voor iedereen. We hebben soms ook evenement dagen waar je langs mag komen en onze producten gratis mag testen en je mag dan ook feedback geven wat je van de ervaring vond.</p>
-
 		</section>
 	</main>
 </body>
