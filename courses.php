@@ -79,13 +79,16 @@
 			<h2>bruikbaarheid</h2>
 			<div class="info">
 				<div>
-					<h1>test</h1>
+					<h3>bij houden</h3>
+					<p>Het is handig dat u het met de technologie kunt bijhouden zodat u niet achter gaat lopen.</p>
 				</div>
 				<div>
-					<h1>test</h1>
+					<h3>is geweldig</h3>
+					<p>VR is een geweldige evaring, waar het voelt alsof u een een echte scifi wereld leeft.</p>
 				</div>
 				<div>
-					<h1>test</h1>
+					<h3>leert veel</h3>
+					<p>Je kan er echt heel veel van leren want je kan niet alleen maar ervaringen meedoen of leren maar je kan ook nog simulatie er mee doen, waar je kan trainen voor heel veel verschillende dingen.</p>
 				</div>
 			</div>
 		</section>
