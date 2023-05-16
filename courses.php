@@ -41,7 +41,6 @@
   </header>
 
   <main>
-		</section>
 		<section>
 			<h2>Cursussen</h2>
 			<table>
