@@ -672,3 +672,25 @@ section.bruikbaar-box>div.info>div {
     display: flex;
     justify-content: center;
 }
+
+/** adds a light gray background to the table */
+table {
+	background-color: rgb(222, 222, 222);
+}
+
+/** adds border around the table heads and table data and adds some space in the table head and table data */
+table>thead>tr>th,td {
+	border: 1px solid black;
+	padding: 1rem;
+}
+
+/** changes the color text of the table head to a blue color */
+th {
+	color: rgb(0, 149, 255);
+}
+
+/** makes it so the h2 and the table are under each other and makes it so the table is more over the screen */
+section {
+	display: flex;
+	flex-direction: column;
+}
