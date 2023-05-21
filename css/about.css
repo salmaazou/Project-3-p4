@@ -681,11 +681,15 @@ section {
 }
 
 /** makes the 3 title's in the 3 div's bigger and bring more attention to the title's */
-div.info>div>h3 {
+div.info>div>div#text>h3 {
 	font-weight: bold;
 }
 
 /** added some space between the content and the h2 subjects */
 h2 {
 	margin: 2.5rem 0rem 2.5rem 0rem;
+}
+
+section>div.info>div.card {
+	display: flex;
 }

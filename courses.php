@@ -80,18 +80,24 @@
 			<div class="info">
 				<div class="card">
 					<img src="uploaded_img/télécharger (1).jpg" alt="">
-					<h3>bij houden</h3>
-					<p>Het is handig dat u het met de technologie kunt bijhouden zodat u niet achter gaat lopen.</p>
+					<div id="text">
+						<h3>bij houden</h3>
+						<p>Het is handig dat u het met de technologie kunt bijhouden zodat u niet achter gaat lopen.</p>
+					</div>
 				</div>
 				<div class="card">
+					<div id="text">
+						<h3>is geweldig</h3>
+						<p>VR is een geweldige evaring, waar het voelt alsof u een een echte scifi wereld leeft.</p>
+					</div>
 					<img src="uploaded_img/télécharger.jpg" alt="">
-					<h3>is geweldig</h3>
-					<p>VR is een geweldige evaring, waar het voelt alsof u een een echte scifi wereld leeft.</p>
 				</div>
 				<div class="card">
 					<img src="uploaded_img/Engels-horizontaal.jpg" alt="">
-					<h3>leert veel</h3>
-					<p>Je kan er echt heel veel van leren want je kan niet alleen maar ervaringen meedoen of leren maar je kan ook nog simulatie er mee doen, waar je kan trainen voor heel veel verschillende dingen.</p>
+					<div id="text">
+						<h3>leert veel</h3>
+						<p>Je kan er echt heel veel van leren want je kan niet alleen maar ervaringen meedoen of leren maar je kan ook nog simulatie er mee doen, waar je kan trainen voor heel veel verschillende dingen.</p>
+					</div>
 				</div>
 			</div>
 		</section>
@@ -99,12 +105,18 @@
 			<h2>concurrentie</h2>
 			<div class="info">
 				<div class="card">
-					<h3>waarom beter</h3>
-					<p>Onze product is beter omdat wij onze producten zelf ook testen en wij maken onze producten zo fijn mogelijk voor onze gebruikers, wij gebruiken ook de feedback van onze gebruikers om het nog beter te maken voor u. Wij zorgen er ook voor dat onze producten ook lekker zitten tijdens het gebruik.</p>
+					<div id="text">
+						<h3>waarom beter</h3>
+						<p>Onze product is beter omdat wij onze producten zelf ook testen en wij maken onze producten zo fijn mogelijk voor onze gebruikers, wij gebruiken ook de feedback van onze gebruikers om het nog beter te maken voor u. Wij zorgen er ook voor dat onze producten ook lekker zitten tijdens het gebruik.</p>
+					</div>
+					<img src="uploaded_img/télécharger (1).jpg" alt="">
 				</div>
 				<div class="card">
-					<h3>over de prijs</h3>
-					<p>Wij maken onze producten ook niet duur zodat iedereen die onze producten willen gebruiken gewoon kan kopen, zodat het betaalbaar is voor iedereen. We hebben soms ook evenement dagen waar je langs mag komen en onze producten gratis mag testen en je mag dan ook feedback geven wat je van de ervaring vond.</p>
+					<img src="uploaded_img/Engels-horizontaal.jpg" alt="">
+					<div id="text">
+						<h3>over de prijs</h3>
+						<p>Wij maken onze producten ook niet duur zodat iedereen die onze producten willen gebruiken gewoon kan kopen, zodat het betaalbaar is voor iedereen. We hebben soms ook evenement dagen waar je langs mag komen en onze producten gratis mag testen en je mag dan ook feedback geven wat je van de ervaring vond.</p>
+					</div>
 				</div>
 			</div>
 		</section>
