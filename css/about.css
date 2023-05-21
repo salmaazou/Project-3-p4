@@ -658,18 +658,6 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 	margin-bottom: 50px;
 }
 
-/** added display flex to the div with the 3 div's so the 3 div's are next to each other */
-/** spaces the div's in de div.info evenly */
-section.bruikbaar-box>div.info {
-    display: flex;
-    justify-content: space-evenly;
-}
-
-/** makes the width of the section.bruikbaar-box smaller so the div's can fit next to each other */
-section.bruikbaar-box>div.info>div {
-    width: 20rem;
-}
-
 /** adds a light gray background to the table */
 table {
 	background-color: rgb(222, 222, 222);
