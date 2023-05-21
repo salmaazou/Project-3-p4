@@ -76,8 +76,8 @@
 			</table>
 		</section>
 		<section>
-			<h2>bruikbaarheid</h2>
 			<div class="info">
+				<h2>bruikbaarheid</h2>
 				<div class="card">
 					<img src="uploaded_img/télécharger (1).jpg" alt="">
 					<div id="text">
@@ -102,8 +102,8 @@
 			</div>
 		</section>
 		<section>
-			<h2>concurrentie</h2>
 			<div class="info">
+				<h2>concurrentie</h2>
 				<div class="card">
 					<div id="text">
 						<h3>waarom beter</h3>
