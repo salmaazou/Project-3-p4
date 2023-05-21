@@ -75,7 +75,7 @@
 				</tbody>
 			</table>
 		</section>
-		<section class="bruikbaar-box">
+		<section>
 			<h2>bruikbaarheid</h2>
 			<div class="info">
 				<div>
@@ -92,7 +92,7 @@
 				</div>
 			</div>
 		</section>
-		<section class="bruikbaar-box">
+		<section>
 			<h2>concurrentie</h2>
 			<div class="info">
 				<div>
