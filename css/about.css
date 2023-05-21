@@ -690,6 +690,22 @@ h2 {
 	margin: 2.5rem 0rem 2.5rem 0rem;
 }
 
+/** makes it so the text and img's are next to eachother */
+/** and makes the div.card to a standard width of 100rem */
 section>div.info>div.card {
 	display: flex;
+	flex-direction: row;
+	width: 100rem;
+}
+
+/** makes it so the items like the img's and text per div are under eachother and put them in the middle of the screen */
+div.info {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+/** adds some space between the text and the img's */
+div#text {
+	margin: 2rem;
 }
