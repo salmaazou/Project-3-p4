@@ -31,4 +31,12 @@ $pdo = null;
 // Redirect the user back to the contact form page
 header("Location: index.php");
 
+$to = "[ your email ]";
+$subject = "Another one";
+$message = "Somebody has filled the contact form.";
+$header = "from: VR-design@gmail.com";
+
+
+mail($to, $subject, $message, $header);
+
 ?>
