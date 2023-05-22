@@ -46,7 +46,7 @@
   <div class="container">
     <h1>Contact</h1>
     <div class="block"></div>
-    <form>
+    <form method="post">
       <div class="row">
         <div class="six columns">
           <label for="exampleRecipientInput">Name</label>
@@ -65,5 +65,12 @@
     </form>
   </div>
 </section>
+
+<?php 
+
+
+
+?>
+
 </body>
 </html>

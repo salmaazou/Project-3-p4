@@ -1,7 +1,4 @@
-drop database if exists contact;
-create database if not exists contact;
-
-use contact;
+use mydatabase;
 
 drop table if exists contacts;
 create table if not exists contacts (
