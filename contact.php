@@ -46,31 +46,24 @@
   <div class="container">
     <h1>Contact</h1>
     <div class="block"></div>
-    <form method="post">
+    <form action="submit.php" method="POST">
       <div class="row">
         <div class="six columns">
-          <label for="exampleRecipientInput">Name</label>
-          <input class="u-full-width" type="text">
+          <label for="name">Name</label>
+          <input class="u-full-width" type="text" name="name">
         </div>
         <div class="six columns">
-          <label for="exampleEmailInput">Email</label>
-          <input class="u-full-width" type="email">
+          <label for="email">Email</label>
+          <input class="u-full-width" type="email" name="email">
         </div>
       </div>
       <div class="row">
-        <label for="exampleMessage">Message</label>
-        <textarea class="u-full-width"></textarea>
+        <label for="message">Message</label>
+        <textarea class="u-full-width" name="message"></textarea>
         <input class="button-primary" type="submit" value="Submit">
       </div>
     </form>
   </div>
 </section>
-
-<?php 
-
-
-
-?>
-
 </body>
 </html>
