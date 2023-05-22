@@ -2,6 +2,7 @@
 
 // Get the form data
 $name = $_POST['name'];
+$onderwerp = $_POST['onderwerp'];
 $email = $_POST['email'];
 $message = $_POST['message'];
 
@@ -19,8 +20,9 @@ try {
 }
 
 // Prepare and execute the SQL statement to insert the data
-$stmt = $pdo->prepare("INSERT INTO contacts (name, email, message) VALUES (:name, :email, :message)");
+$stmt = $pdo->prepare("INSERT INTO contacts (name,onderwerp , email, message) VALUES (:name, :onderwerp, :email, :message)");
 $stmt->bindParam(':name', $name);
+$stmt->bindParam(':onderwerp', $onderwerp);
 $stmt->bindParam(':email', $email);
 $stmt->bindParam(':message', $message);
 $stmt->execute();

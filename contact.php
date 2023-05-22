@@ -48,9 +48,13 @@
     <div class="block"></div>
     <form action="submit.php" method="POST">
       <div class="row">
-        <div class="six columns">
+      <div class="six columns">
           <label for="name">Name</label>
           <input class="u-full-width" type="text" name="name">
+        </div>
+        <div class="six columns">
+          <label for="onderwerp">onderwerp</label>
+          <input class="u-full-width" type="text" name="onderwerp">
         </div>
         <div class="six columns">
           <label for="email">Email</label>
