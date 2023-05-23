@@ -1,5 +1,13 @@
 <?php
 
+$to = "[ your email ";
+$from = "VR-design@gmail.com";
+$subject = "Another one";
+$message = "Somebody has filled the contact form.";
+$header = "from: " . $from;
+
+mail($to, $subject, $message, $header);
+
 // Get the form data
 $name = $_POST['name'];
 $email = $_POST['email'];
@@ -30,14 +38,5 @@ $pdo = null;
 
 // Redirect the user back to the contact form page
 header("Location: index.php");
-
-$to = "[ your email ]";
-$from = "VR-design@gmail.com";
-$subject = "Another one";
-$message = "Somebody has filled the contact form.";
-$header = "from: " . $from;
-
-
-mail($to, $subject, $message, $header);
 
 ?>
