@@ -79,7 +79,7 @@
 			<div class="info">
 				<h2>bruikbaarheid</h2>
 				<div class="card">
-					<img src="uploaded_img/télécharger (1).jpg" alt="">
+					<img src="uploaded_img/télécharger (1).jpg" alt="télécharger (1).jpg">
 					<div id="text">
 						<h3>bij houden</h3>
 						<p>Het is handig dat u het met de technologie kunt bijhouden zodat u niet achter gaat lopen, het heeft wel zijn voordelen om het bij te kunnen houden omdat je heel veel dingen snel kan doen dankzij de technologie. Bijvoorbeeld u kunt u werk heel snel en gemakkelijker delen met collega's, maar u hoeft ook niet te wachten om u collega's te zien want u kunt het gewoon via online doorsturen naar uw collega's.</p>
@@ -90,10 +90,10 @@
 						<h3>is geweldig</h3>
 						<p>VR is een geweldige evaring, waar het voelt alsof u in een echte scifi wereld leeft. Met VR kan u echt van alles kiezen, want u kan met VR nieuwe mensen ontmoeten die compleet ergens anders wonen dan waar u woont en als u VR streamed of video's maakt voor een platform dan kunt u ook geweldige content krijgen omdat er zoveel mogelijkheden zijn met VR, maar als u dingen alleen wilt doen kan dat ook gewoon door bijvoorbeeld: een mooi landschap te kiezen of op een strand, alles is mogelijk in VR.</p>
 					</div>
-					<img src="uploaded_img/télécharger.jpg" alt="">
+					<img src="uploaded_img/télécharger.jpg" alt="télécharger.jpg">
 				</div>
 				<div class="card">
-					<img src="uploaded_img/Engels-horizontaal.jpg" alt="">
+					<img src="uploaded_img/Engels-horizontaal.jpg" alt="Engels-horizontaal.jpg">
 					<div id="text">
 						<h3>leert veel</h3>
 						<p>u kan er echt heel veel van leren want u kan niet alleen maar ervaringen meedoen of leren maar u kan ook nog simulatie er mee doen, bijvoorbeeld u kunt tractor rijden oefenen om het later in het echt te gaan doen of u kunt oefenen hoe u moet basketballen, waar u kan trainen voor heel veel verschillende dingen, maar u kunt ook nog nieuwe mensen ontmoeten die compleet ergens anders wonen dan waar u woont.</p>
@@ -109,10 +109,10 @@
 						<h3>waarom beter</h3>
 						<p>Onze product is beter omdat wij onze producten zelf ook testen en wij maken onze producten zo fijn mogelijk voor onze gebruikers, wij gebruiken ook de feedback van onze gebruikers om het nog beter te maken voor u. Wij zorgen er ook voor dat onze producten ook lekker zitten tijdens het gebruik, wij geven onze community zoveel mogelijk update's over onze producten, maar ook over acties en onze evenementen.</p>
 					</div>
-					<img src="uploaded_img/télécharger (1).jpg" alt="">
+					<img src="uploaded_img/télécharger (1).jpg" alt="télécharger (1).jpg">
 				</div>
 				<div class="card">
-					<img src="uploaded_img/Engels-horizontaal.jpg" alt="">
+					<img src="uploaded_img/Engels-horizontaal.jpg" alt="Engels-horizontaal.jpg">
 					<div id="text">
 						<h3>over de prijs</h3>
 						<p>Wij maken onze producten ook niet duur zodat iedereen die onze producten willen gebruiken gewoon kan kopen, zodat het betaalbaar is voor iedereen. We hebben soms ook evenement dagen waar u langs mag komen en onze producten gratis mag testen en u mag dan ook feedback geven wat u van de ervaring vond, maar als u onze producten koopt krijgt u ook nog een garantie van 10 jaar.</p>
