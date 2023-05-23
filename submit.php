@@ -32,9 +32,10 @@ $pdo = null;
 header("Location: index.php");
 
 $to = "[ your email ]";
+$from = "VR-design@gmail.com";
 $subject = "Another one";
 $message = "Somebody has filled the contact form.";
-$header = "from: VR-design@gmail.com";
+$header = "from: " . $from;
 
 
 mail($to, $subject, $message, $header);
