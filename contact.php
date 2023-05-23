@@ -53,10 +53,6 @@
           <input class="u-full-width" type="text" name="name">
         </div>
         <div class="six columns">
-          <label for="onderwerp">onderwerp</label>
-          <input class="u-full-width" type="text" name="onderwerp">
-        </div>
-        <div class="six columns">
           <label for="email">Email</label>
           <input class="u-full-width" type="email" name="email">
         </div>
