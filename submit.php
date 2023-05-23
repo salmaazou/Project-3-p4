@@ -1,6 +1,6 @@
 <?php
 
-$to = "[ your email ";
+$to = "[ your email ]";
 $from = "VR-design@gmail.com";
 $subject = "Another one";
 $message = "Somebody has filled the contact form.";
