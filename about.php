@@ -12,11 +12,11 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 <nav>
         <ul>
-          <li><a class="smoothscroll" href="index.php">Home</a></li>
-          <li><a class="smoothscroll" href="courses.php">Cursussen</a></li>
-          <li><a class="smoothscroll" href="about.php">Overons</a></li>
-          <li><a class="smoothscroll" href="contact.php">Contact</a></li>
-          <li><a class="smoothscroll" href="ad_config.php">Wijzigen</a></li>
+        <li><a class="smoothscroll" href="index.php">Home</a></li>
+  <li><a class="smoothscroll" href="courses.php">Cursussen</a></li>
+  <li><a class="smoothscroll" href="about.php">Overons</a></li>
+  <li><a class="smoothscroll" href="contact.php">Contact</a></li>
+  <li><a class="smoothscroll" href="ad_config.php">Wijzigen</a></li>
         </ul>
       </nav> 
 <header id="header">
@@ -50,25 +50,25 @@
     <div class="row">
       <h1>Over ons</h1>
       <div class="block"></div>
-      <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+      <p>Welkom bij MBO Utrecht, dé plek waar jouw reis naar een carrière in Virtual Reality Design begint. Onze opleiding is gericht op het ontwikkelen van jouw creatieve en technische vaardigheden om meeslepende virtuele ervaringen te ontwerpen.</p>
     </div>
     <div class="row">
       <div class="six columns">
-        <h3><span class="typcn typcn-device-desktop icon"></span>about</h3>
-        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+        <h3><span class="typcn typcn-device-desktop icon"></span>Opleiding</h3>
+        <p>Tijdens deze praktijkgerichte opleiding leer je de nieuwste tools en technologieën kennen die gebruikt worden in de Virtual Reality-industrie. Van het creëren van realistische 3D-modellen tot het implementeren van interactieve elementen, je wordt een expert in het ontwerpen van boeiende virtuele omgevingen.</p>
       </div>
       <div class="six columns">
-        <h3><span class="typcn typcn-pen icon"></span>about</h3>
-        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+        <h3><span class="typcn typcn-pen icon"></span>Ervaring</h3>
+        <p>Onze ervaren docenten begeleiden je bij elke stap en inspireren je om jouw creatieve visie tot leven te brengen. Je krijgt de kans om te experimenteren met verschillende projecten, waarbij je jouw ontwerpvaardigheden combineert met storytelling en gebruikersinteractie.</p>
       </div>
       <div class="row">
         <div class="six columns">
-          <h3><span class="typcn typcn-cog-outline icon"></span>about</h3>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+          <h3><span class="typcn typcn-cog-outline icon"></span>Nog meer</h3>
+          <p>Daarnaast bouw je aan een solide basis in het begrijpen van menselijk gedrag en gebruikerservaring. Je leert hoe je de VR-ervaring kunt afstemmen op de behoeften en verwachtingen van de gebruiker, zodat elke interactie meeslepend en intuïtief is.</p>
         </div>
         <div class="six columns">
-          <h3><span class="typcn typcn-lightbulb icon"></span>about</h3>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+          <h3><span class="typcn typcn-lightbulb icon"></span>Diploma</h3>
+          <p>Met een diploma in Virtual Reality Design van MBO Utrecht ben je klaar om je stempel te drukken op de groeiende VR-industrie. Ga de uitdaging aan, ontwikkel je talenten en maak deel uit van de revolutie in immersive storytelling.</p>
         </div>
       </div>
     </div>
@@ -83,24 +83,24 @@
     <div class="row">
       <h1>MBO Utrecht Team</h1>
       <div class="block"></div>
-      <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+      <p>Bij MBO Utrecht hebben we een enthousiast en deskundig team van professionals die gepassioneerd zijn over Virtual Reality Design en jouw succes als student. Onze docenten brengen een schat aan ervaring en expertise met zich mee, waardoor ze in staat zijn om jou te begeleiden bij elke stap van je leerproces.</p>
     </div>
     <div class="row">
-      <div class="three columns"> <img src="http://placehold.it/220x220" width="220" height="220" alt=""/>
-        <h4>Naruto Uzumaki</h4>
-        <p>Creative Director</p>
+      <div class="three columns"> <img src="/img/titiz1.jpg" width="220" height="220" alt=""/>
+        <h4>Martijn van der Linden</h4>
+        <p>Hoofddocent Virtual Reality Design</p>
         <span class="typcn typcn-social-facebook-circular icon"></span><span class="typcn typcn-social-instagram-circular icon"></span><span class="typcn typcn-social-google-plus-circular icon"></span><span class="typcn typcn-social-linkedin-circular icon"></span> </div>
-      <div class="three columns"> <img src="http://placehold.it/220x220" width="220" height="220" alt=""/>
-        <h4>Sasuke Uchiha</h4>
-        <p>Lead Designer</p>
+      <div class="three columns"> <img src="/img/vr2.jpg" width="220" height="220" alt=""/>
+        <h4>Sophie de Vries </h4>
+        <p>Docent 3D-modellering en Animatie</p>
         <span class="typcn typcn-social-facebook-circular icon"></span><span class="typcn typcn-social-instagram-circular icon"></span><span class="typcn typcn-social-google-plus-circular icon"></span><span class="typcn typcn-social-linkedin-circular icon"></span> </div>
-      <div class="three columns"> <img src="http://placehold.it/220x220" width="220" height="220" alt=""/>
-        <h4>Shikamaru Nara</h4>
-        <p>Designer</p>
+      <div class="three columns"> <img src="/img/chinwi.jpg" width="220" height="220" alt=""/>
+        <h4>Jan-Willem Petersen </h4>
+        <p>Docent Interactieontwerp en Gebruikerservaring</p>
         <span class="typcn typcn-social-facebook-circular icon"></span><span class="typcn typcn-social-instagram-circular icon"></span><span class="typcn typcn-social-google-plus-circular icon"></span><span class="typcn typcn-social-linkedin-circular icon"></span> </div>
-      <div class="three columns"> <img src="http://placehold.it/220x220" width="220" height="220" alt=""/>
-        <h4>Sakura Haruno</h4>
-        <p>Designer</p>
+      <div class="three columns"> <img src="/img/vr1.jpg" width="220" height="220" alt=""/>
+        <h4>Lisa Bakker </h4>
+        <p>Docent Technische Implementatie en Softwareontwikkeling</p>
         <span class="typcn typcn-social-facebook-circular icon"></span><span class="typcn typcn-social-instagram-circular icon"></span><span class="typcn typcn-social-google-plus-circular icon"></span><span class="typcn typcn-social-linkedin-circular icon"></span> </div>
     </div>
   </div>
@@ -124,7 +124,7 @@
 <footer>
   <div class="container">
     <div class="nine columns">
-      <p>Created with love by Salma z.</p>
+      <p>© 2023 Mbo Utrecht-opleidingen.</p>
     </div>
     <div class="three columns"> <span class="typcn typcn-social-facebook-circular socialIcons"></span> <span class="typcn typcn-social-instagram-circular socialIcons"></span> <span class="typcn typcn-social-google-plus-circular socialIcons"></span> <span class="typcn typcn-social-linkedin-circular socialIcons"></span> </div>
   </div>

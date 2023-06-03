@@ -1,13 +1,5 @@
 <?php
 
-$to = "[ your email ]";
-$from = "[ email ]";
-$subject = "Another one";
-$message = "Somebody has filled the contact form.";
-$header = "from: " . $from;
-
-mail($to, $subject, $message, $header);
-
 // Get the form data
 $name = $_POST['name'];
 $email = $_POST['email'];
@@ -16,8 +8,8 @@ $message = $_POST['message'];
 // Connect to the database using PDO
 $host = 'localhost';
 $dbname = 'mydatabase';
-$username = 'root';
-$password = '';
+$username = 'myusername';
+$password = 'mypassword';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
