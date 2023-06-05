@@ -38,7 +38,7 @@ try {
     //Content
     $mail->isHTML(true);
     $mail->Subject = 'Here is the subject';
-    $mail->Body    = 'This is the HTML message body <b>in bold!</b>';
+    $mail->Body    = '<p> ' . $messageUser . ' </p>';
     $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
     $mail->send();
@@ -58,7 +58,7 @@ try {
 $stmt = $pdo->prepare("INSERT INTO contacts (name, email, message) VALUES (:name, :email, :message)");
 $stmt->bindParam(':name', $name);
 $stmt->bindParam(':email', $email);
-$stmt->bindParam(':message', $message);
+$stmt->bindParam(':message', $messageUser);
 $stmt->execute();
 
 // Close the database connection
